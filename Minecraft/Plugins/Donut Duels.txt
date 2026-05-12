@@ -1,0 +1,6 @@
+Name: Donut Duels
+Version: unknown
+Status: working perfectly
+Uploaded by: Axel
+Info: https://builtbybit.com/resources/donutduels-modern-efficient-duels.66290/
+Download: https://cdn.discordapp.com/attachments/1371808280720179280/1503703079231684748/cuy-duels-3.0-SNAPSHOT_1.jar?ex=6a04501f&is=6a02fe9f&hm=10a2e15f7b976d7578c918f717a94582d015e963292cc38d8b79999a376d7b49&

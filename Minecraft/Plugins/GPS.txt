@@ -1,0 +1,5 @@
+Name: GPS
+Version: 2.21.0
+Status: working perfectly
+Info: https://www.spigotmc.org/resources/gps-1-9-1-21-global-positioning-system-for-your-server.53672/
+Download: https://cdn.discordapp.com/attachments/1371808280720179280/1503723602900422780/GPS-2.21.0.jar?ex=6a04633c&is=6a0311bc&hm=36f202d8afde05b3841e29166d32c368023a6258e9887947d64ff0c8afe8080f&

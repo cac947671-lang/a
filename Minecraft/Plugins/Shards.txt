@@ -1,0 +1,5 @@
+Name: Shards
+Version: 2.4.6
+Status: working perfectly
+Info: https://builtbybit.com/resources/shards-afk-area-shop.38393/
+Download: https://cdn.discordapp.com/attachments/1371808280720179280/1503723248674672742/just-shards.jar?ex=6a0462e8&is=6a031168&hm=a5f9f9dd16f08fefbc3d2f8c0957659a63a2a30ab24f8f68320eb3729a6f154e&
